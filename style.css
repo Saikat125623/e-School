@@ -1,4 +1,111 @@
+#navigation{
+    margin: 100px;
+}
+#card-hight{
+    height: 200px;
+}
 .logo{
     width: 250px;
     height: 80px;
+}
+.sign-up{
+    border: none;
+    background-color: white;
+}
+.sign-up h6:hover{
+    border-radius: 10px;
+    color: white;
+    background-color: #21B573;
+    padding: 5px;
+    box-shadow: 2px 2px 4px 2px lightgrey;
+}
+.fun{
+    color: #21B573;
+}
+.text{
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 900;
+}
+.card-title{
+    color: #413960;
+    
+}
+.get-start{
+    color: white;
+    border-radius: 25px;
+    background-color: #21B573;
+    border: none;
+    padding: 5px 20px;
+}
+.topic{
+    margin: 40px;
+    width: 66px;
+    height: 85px;
+    background-color: white;
+}
+.tx-clr{
+    text-decoration: none;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#fast-card:hover{
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px 10px lightskyblue;
+}
+.Online-Courses{
+    color: #413960;
+}
+#image-border{
+    width: 380px;
+    height: 260px;
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-top: 18px;
+    
+}
+#date{
+    color: #585859;
+}
+.cf-img{
+    width: 30px;
+    height: 30px;
+}
+.man{
+    width: 120px;
+    height: 120px;
+}
+footer{
+    background-color: #282531;
+    width: 1320px;
+    height: 369px;
+    left: 0px;
+    top: 2013px;
+}
+.f-text{
+    color: white;
+    margin-left: 80px;
+    padding-top: 80px;
+    padding-left: 60px;
+    padding-right: 50px;
+}
+.course{
+    color: white;
+    padding-top: 80px;
+    padding-left: 20px;
+}
+.text-control{
+    color: white;
+    line-height: 30px;
+    padding-left: 20px;
+}
+.copyright{
+    color: white;
+    padding-top: 50px;
+}
+#card-ft{
+    padding-bottom: 10px;
 }
